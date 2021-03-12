@@ -3,19 +3,19 @@ body {
   font-family: "Open Sans", sans-serif; }
 
 h1, h2, h3 {
+  color: rgb(252, 255, 240);
   font-family: "Lobster", cursive; }
+  
 
 h3 {
   color: #51556c; }
 
 header h2 {
   color: #CEC8FF; }
-header img {
-  width: 80px;
-  height: 80px;
-}
+
 footer{
   background-image: linear-gradient(to right, #7261b5, #763937, #7261b5);
+  
 
 }
 .site-footer {
@@ -24,9 +24,8 @@ footer{
 
 .jumbotron {
   margin: 0;
-  padding: 30px;
-  background-image: linear-gradient(to right, #b5617d, #763937, #784347);
-  color: white; }
+  padding: 1px; 
+  background-image: linear-gradient(to right, #59465b, #763937, #59465b);}
 
 .row-content {
   padding: 50px 0;
@@ -34,7 +33,7 @@ footer{
   min-height: 200px; }
 
 .navbar {
-  background-image: linear-gradient(to right, #7261b5, #763937, #59465b);}
+  background-image: linear-gradient(to right, #59465b, #763937, #59465b);}
 
 .site-footer {
   background-image: linear-gradient(#CEC8FF, white);
@@ -78,7 +77,9 @@ footer{
   
 }
 
-nav ul li {
 
+
+ul img {
+  width: 40px;
+  height: 30px;
 }
-
