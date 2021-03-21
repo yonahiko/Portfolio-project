@@ -25,7 +25,7 @@ footer{
 .jumbotron {
   margin: 0;
   padding: 1px; 
-  background-image: linear-gradient(to right, #59465b, #763937, #59465b);}
+  background-image: linear-gradient(to right, #59465b, #3b1918, #3d293f);}
 
 .row-content {
   padding: 50px 0;
@@ -33,7 +33,7 @@ footer{
   min-height: 200px; }
 
 .navbar {
-  background-image: linear-gradient(to right, #59465b, #763937, #59465b);}
+  background-image: linear-gradient(to right, #59465b, #311716, #221724);}
 
 .site-footer {
   background-image: linear-gradient(#CEC8FF, white);
